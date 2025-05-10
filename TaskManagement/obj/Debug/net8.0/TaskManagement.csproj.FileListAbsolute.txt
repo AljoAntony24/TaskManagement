@@ -1,0 +1,178 @@
+D:\Aljo\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\appsettings.Development.json
+D:\Aljo\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\appsettings.json
+D:\Aljo\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\TaskManagement.staticwebassets.endpoints.json
+D:\Aljo\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\TaskManagement.exe
+D:\Aljo\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\TaskManagement.deps.json
+D:\Aljo\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\TaskManagement.runtimeconfig.json
+D:\Aljo\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\TaskManagement.dll
+D:\Aljo\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\TaskManagement.pdb
+D:\Aljo\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\TaskManagement.xml
+D:\Aljo\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\Azure.Core.dll
+D:\Aljo\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\Azure.Identity.dll
+D:\Aljo\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Aljo\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Aljo\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\Aljo\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\Aljo\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Aljo\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Aljo\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Aljo\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Aljo\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Aljo\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Aljo\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Aljo\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Aljo\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+D:\Aljo\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Aljo\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\Aljo\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+D:\Aljo\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\Aljo\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Aljo\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Aljo\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Aljo\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\Aljo\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\Aljo\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Aljo\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\Aljo\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\Aljo\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\Aljo\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\Aljo\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Aljo\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Aljo\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Aljo\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\System.ClientModel.dll
+D:\Aljo\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\Aljo\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+D:\Aljo\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\Aljo\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\System.Formats.Asn1.dll
+D:\Aljo\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Aljo\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\System.IO.Pipelines.dll
+D:\Aljo\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\System.Memory.Data.dll
+D:\Aljo\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\Aljo\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\Aljo\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\Aljo\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+D:\Aljo\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\System.Text.Json.dll
+D:\Aljo\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\Aljo\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Aljo\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Aljo\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Aljo\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Aljo\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Aljo\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Aljo\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Aljo\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\Aljo\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Aljo\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\Aljo\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Aljo\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+D:\Aljo\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\Aljo\TaskManagement\TaskManagement\TaskManagement\obj\Debug\net8.0\TaskManagement.csproj.AssemblyReference.cache
+D:\Aljo\TaskManagement\TaskManagement\TaskManagement\obj\Debug\net8.0\TaskManagement.GeneratedMSBuildEditorConfig.editorconfig
+D:\Aljo\TaskManagement\TaskManagement\TaskManagement\obj\Debug\net8.0\TaskManagement.AssemblyInfoInputs.cache
+D:\Aljo\TaskManagement\TaskManagement\TaskManagement\obj\Debug\net8.0\TaskManagement.AssemblyInfo.cs
+D:\Aljo\TaskManagement\TaskManagement\TaskManagement\obj\Debug\net8.0\TaskManagement.csproj.CoreCompileInputs.cache
+D:\Aljo\TaskManagement\TaskManagement\TaskManagement\obj\Debug\net8.0\TaskManagement.MvcApplicationPartsAssemblyInfo.cs
+D:\Aljo\TaskManagement\TaskManagement\TaskManagement\obj\Debug\net8.0\TaskManagement.MvcApplicationPartsAssemblyInfo.cache
+D:\Aljo\TaskManagement\TaskManagement\TaskManagement\obj\Debug\net8.0\scopedcss\bundle\TaskManagement.styles.css
+D:\Aljo\TaskManagement\TaskManagement\TaskManagement\obj\Debug\net8.0\staticwebassets.build.json
+D:\Aljo\TaskManagement\TaskManagement\TaskManagement\obj\Debug\net8.0\staticwebassets.development.json
+D:\Aljo\TaskManagement\TaskManagement\TaskManagement\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+D:\Aljo\TaskManagement\TaskManagement\TaskManagement\obj\Debug\net8.0\staticwebassets\msbuild.TaskManagement.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Aljo\TaskManagement\TaskManagement\TaskManagement\obj\Debug\net8.0\staticwebassets\msbuild.TaskManagement.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+D:\Aljo\TaskManagement\TaskManagement\TaskManagement\obj\Debug\net8.0\staticwebassets\msbuild.build.TaskManagement.props
+D:\Aljo\TaskManagement\TaskManagement\TaskManagement\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.TaskManagement.props
+D:\Aljo\TaskManagement\TaskManagement\TaskManagement\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.TaskManagement.props
+D:\Aljo\TaskManagement\TaskManagement\TaskManagement\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Aljo\TaskManagement\TaskManagement\TaskManagement\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+D:\Aljo\TaskManagement\TaskManagement\TaskManagement\obj\Debug\net8.0\TaskMana.75ABC965.Up2Date
+D:\Aljo\TaskManagement\TaskManagement\TaskManagement\obj\Debug\net8.0\TaskManagement.dll
+D:\Aljo\TaskManagement\TaskManagement\TaskManagement\obj\Debug\net8.0\refint\TaskManagement.dll
+D:\Aljo\TaskManagement\TaskManagement\TaskManagement\obj\Debug\net8.0\TaskManagement.xml
+D:\Aljo\TaskManagement\TaskManagement\TaskManagement\obj\Debug\net8.0\TaskManagement.pdb
+D:\Aljo\TaskManagement\TaskManagement\TaskManagement\obj\Debug\net8.0\TaskManagement.genruntimeconfig.cache
+D:\Aljo\TaskManagement\TaskManagement\TaskManagement\obj\Debug\net8.0\ref\TaskManagement.dll
+E:\Dot Net Projects\TaskManagement\TaskManagement\obj\Debug\net8.0\TaskManagement.csproj.AssemblyReference.cache
+E:\Dot Net Projects\TaskManagement\TaskManagement\obj\Debug\net8.0\TaskManagement.GeneratedMSBuildEditorConfig.editorconfig
+E:\Dot Net Projects\TaskManagement\TaskManagement\obj\Debug\net8.0\TaskManagement.AssemblyInfoInputs.cache
+E:\Dot Net Projects\TaskManagement\TaskManagement\obj\Debug\net8.0\TaskManagement.AssemblyInfo.cs
+E:\Dot Net Projects\TaskManagement\TaskManagement\obj\Debug\net8.0\TaskManagement.csproj.CoreCompileInputs.cache
+E:\Dot Net Projects\TaskManagement\TaskManagement\obj\Debug\net8.0\TaskManagement.MvcApplicationPartsAssemblyInfo.cs
+E:\Dot Net Projects\TaskManagement\TaskManagement\obj\Debug\net8.0\TaskManagement.MvcApplicationPartsAssemblyInfo.cache
+E:\Dot Net Projects\TaskManagement\TaskManagement\bin\Debug\net8.0\appsettings.Development.json
+E:\Dot Net Projects\TaskManagement\TaskManagement\bin\Debug\net8.0\appsettings.json
+E:\Dot Net Projects\TaskManagement\TaskManagement\bin\Debug\net8.0\TaskManagement.staticwebassets.endpoints.json
+E:\Dot Net Projects\TaskManagement\TaskManagement\bin\Debug\net8.0\TaskManagement.exe
+E:\Dot Net Projects\TaskManagement\TaskManagement\bin\Debug\net8.0\TaskManagement.deps.json
+E:\Dot Net Projects\TaskManagement\TaskManagement\bin\Debug\net8.0\TaskManagement.runtimeconfig.json
+E:\Dot Net Projects\TaskManagement\TaskManagement\bin\Debug\net8.0\TaskManagement.dll
+E:\Dot Net Projects\TaskManagement\TaskManagement\bin\Debug\net8.0\TaskManagement.pdb
+E:\Dot Net Projects\TaskManagement\TaskManagement\bin\Debug\net8.0\TaskManagement.xml
+E:\Dot Net Projects\TaskManagement\TaskManagement\bin\Debug\net8.0\Azure.Core.dll
+E:\Dot Net Projects\TaskManagement\TaskManagement\bin\Debug\net8.0\Azure.Identity.dll
+E:\Dot Net Projects\TaskManagement\TaskManagement\bin\Debug\net8.0\Google.Apis.dll
+E:\Dot Net Projects\TaskManagement\TaskManagement\bin\Debug\net8.0\Google.Apis.Auth.dll
+E:\Dot Net Projects\TaskManagement\TaskManagement\bin\Debug\net8.0\Google.Apis.Core.dll
+E:\Dot Net Projects\TaskManagement\TaskManagement\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\Dot Net Projects\TaskManagement\TaskManagement\bin\Debug\net8.0\Microsoft.AspNetCore.Mvc.Versioning.dll
+E:\Dot Net Projects\TaskManagement\TaskManagement\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Dot Net Projects\TaskManagement\TaskManagement\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+E:\Dot Net Projects\TaskManagement\TaskManagement\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+E:\Dot Net Projects\TaskManagement\TaskManagement\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Dot Net Projects\TaskManagement\TaskManagement\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Dot Net Projects\TaskManagement\TaskManagement\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Dot Net Projects\TaskManagement\TaskManagement\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+E:\Dot Net Projects\TaskManagement\TaskManagement\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\Dot Net Projects\TaskManagement\TaskManagement\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+E:\Dot Net Projects\TaskManagement\TaskManagement\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Dot Net Projects\TaskManagement\TaskManagement\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+E:\Dot Net Projects\TaskManagement\TaskManagement\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+E:\Dot Net Projects\TaskManagement\TaskManagement\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Dot Net Projects\TaskManagement\TaskManagement\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+E:\Dot Net Projects\TaskManagement\TaskManagement\bin\Debug\net8.0\Microsoft.OpenApi.dll
+E:\Dot Net Projects\TaskManagement\TaskManagement\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+E:\Dot Net Projects\TaskManagement\TaskManagement\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+E:\Dot Net Projects\TaskManagement\TaskManagement\bin\Debug\net8.0\NetDevPack.Security.JwtExtensions.dll
+E:\Dot Net Projects\TaskManagement\TaskManagement\bin\Debug\net8.0\Newtonsoft.Json.dll
+E:\Dot Net Projects\TaskManagement\TaskManagement\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Dot Net Projects\TaskManagement\TaskManagement\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Dot Net Projects\TaskManagement\TaskManagement\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Dot Net Projects\TaskManagement\TaskManagement\bin\Debug\net8.0\System.CodeDom.dll
+E:\Dot Net Projects\TaskManagement\TaskManagement\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+E:\Dot Net Projects\TaskManagement\TaskManagement\bin\Debug\net8.0\System.Drawing.Common.dll
+E:\Dot Net Projects\TaskManagement\TaskManagement\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Dot Net Projects\TaskManagement\TaskManagement\bin\Debug\net8.0\System.Management.dll
+E:\Dot Net Projects\TaskManagement\TaskManagement\bin\Debug\net8.0\System.Memory.Data.dll
+E:\Dot Net Projects\TaskManagement\TaskManagement\bin\Debug\net8.0\System.Runtime.Caching.dll
+E:\Dot Net Projects\TaskManagement\TaskManagement\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+E:\Dot Net Projects\TaskManagement\TaskManagement\bin\Debug\net8.0\System.Security.Permissions.dll
+E:\Dot Net Projects\TaskManagement\TaskManagement\bin\Debug\net8.0\System.Windows.Extensions.dll
+E:\Dot Net Projects\TaskManagement\TaskManagement\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\Dot Net Projects\TaskManagement\TaskManagement\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\Dot Net Projects\TaskManagement\TaskManagement\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Dot Net Projects\TaskManagement\TaskManagement\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Dot Net Projects\TaskManagement\TaskManagement\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Dot Net Projects\TaskManagement\TaskManagement\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Dot Net Projects\TaskManagement\TaskManagement\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\Dot Net Projects\TaskManagement\TaskManagement\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+E:\Dot Net Projects\TaskManagement\TaskManagement\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+E:\Dot Net Projects\TaskManagement\TaskManagement\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Management.dll
+E:\Dot Net Projects\TaskManagement\TaskManagement\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+E:\Dot Net Projects\TaskManagement\TaskManagement\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\Dot Net Projects\TaskManagement\TaskManagement\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+E:\Dot Net Projects\TaskManagement\TaskManagement\obj\Debug\net8.0\scopedcss\bundle\TaskManagement.styles.css
+E:\Dot Net Projects\TaskManagement\TaskManagement\obj\Debug\net8.0\staticwebassets.build.json
+E:\Dot Net Projects\TaskManagement\TaskManagement\obj\Debug\net8.0\staticwebassets.development.json
+E:\Dot Net Projects\TaskManagement\TaskManagement\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+E:\Dot Net Projects\TaskManagement\TaskManagement\obj\Debug\net8.0\staticwebassets\msbuild.TaskManagement.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Dot Net Projects\TaskManagement\TaskManagement\obj\Debug\net8.0\staticwebassets\msbuild.TaskManagement.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+E:\Dot Net Projects\TaskManagement\TaskManagement\obj\Debug\net8.0\staticwebassets\msbuild.build.TaskManagement.props
+E:\Dot Net Projects\TaskManagement\TaskManagement\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.TaskManagement.props
+E:\Dot Net Projects\TaskManagement\TaskManagement\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.TaskManagement.props
+E:\Dot Net Projects\TaskManagement\TaskManagement\obj\Debug\net8.0\staticwebassets.pack.json
+E:\Dot Net Projects\TaskManagement\TaskManagement\obj\Debug\net8.0\TaskMana.75ABC965.Up2Date
+E:\Dot Net Projects\TaskManagement\TaskManagement\obj\Debug\net8.0\TaskManagement.dll
+E:\Dot Net Projects\TaskManagement\TaskManagement\obj\Debug\net8.0\refint\TaskManagement.dll
+E:\Dot Net Projects\TaskManagement\TaskManagement\obj\Debug\net8.0\TaskManagement.xml
+E:\Dot Net Projects\TaskManagement\TaskManagement\obj\Debug\net8.0\TaskManagement.pdb
+E:\Dot Net Projects\TaskManagement\TaskManagement\obj\Debug\net8.0\TaskManagement.genruntimeconfig.cache
+E:\Dot Net Projects\TaskManagement\TaskManagement\obj\Debug\net8.0\ref\TaskManagement.dll
